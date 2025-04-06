@@ -1,0 +1,11 @@
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Core\bin\Debug\net9.0\MyCompany.MyApp.Core.deps.json
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Core\bin\Debug\net9.0\MyCompany.MyApp.Core.dll
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Core\bin\Debug\net9.0\MyCompany.MyApp.Core.pdb
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Core\obj\Debug\net9.0\MyCompany.MyApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Core\obj\Debug\net9.0\MyCompany.MyApp.Core.AssemblyInfoInputs.cache
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Core\obj\Debug\net9.0\MyCompany.MyApp.Core.AssemblyInfo.cs
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Core\obj\Debug\net9.0\MyCompany.MyApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Core\obj\Debug\net9.0\MyCompany.MyApp.Core.dll
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Core\obj\Debug\net9.0\refint\MyCompany.MyApp.Core.dll
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Core\obj\Debug\net9.0\MyCompany.MyApp.Core.pdb
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Core\obj\Debug\net9.0\ref\MyCompany.MyApp.Core.dll

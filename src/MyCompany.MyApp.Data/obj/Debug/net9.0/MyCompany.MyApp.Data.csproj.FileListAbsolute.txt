@@ -1,0 +1,17 @@
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\bin\Debug\net9.0\MyCompany.MyApp.Data.deps.json
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\bin\Debug\net9.0\MyCompany.MyApp.Data.dll
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\bin\Debug\net9.0\MyCompany.MyApp.Data.pdb
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\bin\Debug\net9.0\MyCompany.MyApp.Core.dll
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\bin\Debug\net9.0\MyCompany.MyApp.Shared.dll
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\bin\Debug\net9.0\MyCompany.MyApp.Core.pdb
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\bin\Debug\net9.0\MyCompany.MyApp.Shared.pdb
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\obj\Debug\net9.0\MyCompany.MyApp.Data.csproj.AssemblyReference.cache
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\obj\Debug\net9.0\MyCompany.MyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\obj\Debug\net9.0\MyCompany.MyApp.Data.AssemblyInfoInputs.cache
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\obj\Debug\net9.0\MyCompany.MyApp.Data.AssemblyInfo.cs
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\obj\Debug\net9.0\MyCompany.MyApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\obj\Debug\net9.0\MyCompan.6C084E70.Up2Date
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\obj\Debug\net9.0\MyCompany.MyApp.Data.dll
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\obj\Debug\net9.0\refint\MyCompany.MyApp.Data.dll
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\obj\Debug\net9.0\MyCompany.MyApp.Data.pdb
+C:\Users\ACER\botnoi\dotnetBackend\MyCompany.MyApp\src\MyCompany.MyApp.Data\obj\Debug\net9.0\ref\MyCompany.MyApp.Data.dll
