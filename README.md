@@ -18,7 +18,43 @@ This template provides a pre-structured solution for:
 ---
 
 ## 🏗️ Project Structure
-MyCompany.MyApp/ ├── src/ │ ├── MyCompany.MyApp.Web/ # Web API layer (entry point) │ ├── MyCompany.MyApp.Core/ # Domain models, interfaces │ ├── MyCompany.MyApp.Services/ # Business logic │ ├── MyCompany.MyApp.Data/ # Repository, EF Core, persistence │ └── MyCompany.MyApp.Shared/ # Shared utilities, constants │ ├── tests/ │ └── MyCompany.MyApp.Tests/ # Unit tests with xUnit └── MyCompany.MyApp.sln # Solution file
+MyCompany.MyApp/
+│
+├── 📁 src/                          # Source code
+│   ├── 📁 MyCompany.MyApp.Web/      # ✅ Web API entry point
+│   │   ├── Controllers/            #    ASP.NET Controllers
+│   │   ├── Program.cs              #    Main app startup
+│   │   ├── Startup.cs (optional)  #    Startup config (if used)
+│   │   └── *.csproj                #    Web project file
+│   │
+│   ├── 📁 MyCompany.MyApp.Core/     # 💡 Domain layer
+│   │   ├── Entities/               #    Domain models
+│   │   ├── Interfaces/             #    Service/Repo interfaces
+│   │   └── *.csproj
+│   │
+│   ├── 📁 MyCompany.MyApp.Services/ # ⚙️ Business logic layer
+│   │   ├── Implementations/        #    Service implementations
+│   │   └── *.csproj
+│   │
+│   ├── 📁 MyCompany.MyApp.Data/     # 🗄️ Data access layer
+│   │   ├── DbContext/              #    EF Core context
+│   │   ├── Repositories/           #    Repository pattern
+│   │   └── *.csproj
+│   │
+│   └── 📁 MyCompany.MyApp.Shared/   # 🧰 Shared utilities
+│       ├── Extensions/             #    Extension methods
+│       ├── Constants/              #    Global constants
+│       └── *.csproj
+│
+├── 📁 tests/                        # 🧪 Unit and integration tests
+│   └── 📁 MyCompany.MyApp.Tests/    #    xUnit test project
+│       ├── TestHelpers/            #    Mocks, fixtures
+│       └── *.csproj
+│
+├── 📄 MyCompany.MyApp.sln          # 🔗 Solution file
+├── 📄 README.md                    # 📝 Project documentation
+└── 📄 .gitignore                   # 🚫 Git ignore rules
+
 
 ---
 
@@ -49,5 +85,5 @@ MyCompany.MyApp/ ├── src/ │ ├── MyCompany.MyApp.Web/ # Web API lay
    Web for API endpoints
   
 4. Running Tests
-```bash
-dotnet test
+   ```bash
+   dotnet test
