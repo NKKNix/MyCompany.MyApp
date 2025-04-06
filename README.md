@@ -15,13 +15,17 @@ This template provides a pre-structured solution for:
 - Testable business logic
 - Easy integration with CI/CD
 
----
+<details> <summary>📁 Click to expand: Copy-friendly Tree Structure</summary>
+markdown
+Copy
+Edit
+## 🗂️ Project Structure
 
-## 🏗️ Project Structure
-MyCompany.MyApp/ ├── src/ # Source code │ ├── MyCompany.MyApp.Web/ # Web API entry point │ │ ├── Controllers/ # ASP.NET Controllers │ │ ├── Program.cs # Main app startup │ │ └── *.csproj # Web project file │ │ │ ├── MyCompany.MyApp.Core/ # Domain layer │ │ ├── Entities/ # Domain models │ │ ├── Interfaces/ # Service/Repo interfaces │ │ └── *.csproj │ │ │ ├── MyCompany.MyApp.Services/ # Business logic layer │ │ ├── Implementations/ # Service implementations │ │ └── *.csproj │ │ │ ├── MyCompany.MyApp.Data/ # Data access layer │ │ ├── DbContext/ # EF Core context │ │ ├── Repositories/ # Repository pattern │ │ └── *.csproj │ │ │ └── MyCompany.MyApp.Shared/ # Shared utilities │ ├── Extensions/ # Extension methods │ ├── Constants/ # Global constants │ └── *.csproj │ ├── tests/ # Unit and integration tests │ └── MyCompany.MyApp.Tests/ # xUnit test project │ ├── TestHelpers/ # Mocks, fixtures │ └── *.csproj │ ├── MyCompany.MyApp.sln # Solution file ├── README.md # Project documentation └── .gitignore # Git ignore rules
+MyCompany.MyApp/ ├── src/ │ ├── MyCompany.MyApp.Web/ # Web API entry point │ │ ├── Controllers/ # ASP.NET Controllers │ │ ├── Program.cs # Main app startup │ │ └── MyCompany.MyApp.Web.csproj │ │ │ ├── MyCompany.MyApp.Core/ # Domain layer │ │ ├── Entities/ # Domain models │ │ ├── Interfaces/ # Service/Repo interfaces │ │ └── MyCompany.MyApp.Core.csproj │ │ │ ├── MyCompany.MyApp.Services/ # Business logic layer │ │ ├── Implementations/ # Service implementations │ │ └── MyCompany.MyApp.Services.csproj │ │ │ ├── MyCompany.MyApp.Data/ # Data access layer │ │ ├── DbContext/ # EF Core context │ │ ├── Repositories/ # Repository pattern │ │ └── MyCompany.MyApp.Data.csproj │ │ │ └── MyCompany.MyApp.Shared/ # Shared utilities │ ├── Extensions/ # Extension methods │ ├── Constants/ # Global constants │ └── MyCompany.MyApp.Shared.csproj │ ├── tests/ │ └── MyCompany.MyApp.Tests/ # xUnit test project │ ├── TestHelpers/ # Mocks, fixtures │ └── MyCompany.MyApp.Tests.csproj │ ├── MyCompany.MyApp.sln # Solution file ├── README.md # Project documentation └── .gitignore # Git ignore rules
 
-
----
+Copy
+Edit
+</details>
 
 ## 🔧 Technologies Used
 
