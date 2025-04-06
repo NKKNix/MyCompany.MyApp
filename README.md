@@ -52,7 +52,7 @@ MyCompany.MyApp/
 ├── MyCompany.MyApp.sln               # Solution file
 ├── README.md                         # Project documentation
 └── .gitignore                        # Git ignore rules
-
+```
 
 ## 🔧 Technologies Used
 
