@@ -18,7 +18,7 @@ This template provides a pre-structured solution for:
 ---
 
 ## 🏗️ Project Structure
-
+MyCompany.MyApp/ ├── src/ │ ├── MyCompany.MyApp.Web/ # Web API layer (entry point) │ ├── MyCompany.MyApp.Core/ # Domain models, interfaces │ ├── MyCompany.MyApp.Services/ # Business logic │ ├── MyCompany.MyApp.Data/ # Repository, EF Core, persistence │ └── MyCompany.MyApp.Shared/ # Shared utilities, constants │ ├── tests/ │ └── MyCompany.MyApp.Tests/ # Unit tests with xUnit └── MyCompany.MyApp.sln # Solution file
 
 ---
 
@@ -44,12 +44,10 @@ This template provides a pre-structured solution for:
 3. Start building features by adding to:
    ```bash
    Services for business logic
-
-  Core for contracts & models
-
-  Data for persistence
-
-  Web for API endpoints
+   Core for contracts & models
+   Data for persistence
+   Web for API endpoints
+  
 4. Running Tests
 ```bash
 dotnet test
