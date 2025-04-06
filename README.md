@@ -1,4 +1,4 @@
-# 🧱 MyCompany.MyApp – .NET 9 Clean Architecture Template
+# MyCompany.MyApp – .NET 9 Clean Architecture Template
 
 This repository is a **.NET 9 Clean Architecture Template** designed for enterprise-level applications.  
 It serves as a scalable starting point for building robust APIs or backend systems using modern .NET practices.
